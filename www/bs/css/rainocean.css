@@ -1,0 +1,82 @@
+body {
+    font-family: Georgia, serif;
+    /*background: url("../img/back2.jpg") no-repeat center center fixed; */
+    background-color: tomato;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 4.5vw;
+    /*letter-spacing: 0.2px;
+           word-spacing: 4px;*/
+    color: wheat;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+    margin: 0.5px;
+    display: flex;
+    position: relative;
+}
+
+p {
+    font-weight: bold;
+    color: wheat;
+}
+
+a {
+    font-weight: bold;
+    color: wheat;
+    text-decoration: none;
+}
+
+a:hover {
+    color: wheat;
+    display: inline-block;
+    position: relative;
+}
+
+a:active {
+    color: wheat;
+    display: inline-block;
+    position: relative;
+    
+}
+
+a:visited {
+    color: wheat;
+    display: inline-block;
+    position: relative;
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: tomato;
+    color: wheat;
+    text-align: center;
+ }
+
+.navbar-header {
+    overflow: hidden;
+    background-color: tomato;
+    font-weight: bold;
+    font-size: 4.5vw;
+    color: wheat;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+}
+
+.navbar-brand 
+{
+    font-weight: bold;
+    font-size: 4.5vw;
+    text-align: start;
+}
