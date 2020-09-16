@@ -1,2 +1,2 @@
 # cordovatestapp
-Android app
+Android app based on Apache Cordova
